@@ -42,30 +42,21 @@ I'm a Software Developer passionate about crafting user-friendly websites and ap
 
 ## Projects
 
-### [Project 1 Name]
+### Oz Pickle
 
-- Description: Brief description of the project.
-- Tech Stack: List of technologies used.
-- GitHub Repository: [Link to Project Repository]
-
-### [Project 2 Name]
-
-- Description: Brief description of the project.
-- Tech Stack: List of technologies used.
+- Description: Oz Pickle, a Laravel-powered E-commerce Platform, offers a sophisticated and responsive online marketplace. Leveraging Laravel's robust framework, it seamlessly integrates innovative functionalities, ensuring a secure shopping experience for customers while streamlining administration. Employing jQuery and SCSS, interactive elements enhance user engagement. Admin functionalities enable CRUD operations, product management, discounts, and efficient order handling. Users benefit from personalized accounts, favoriting products, and submitting reviews, fostering engagement. With a large SQLite database and Eloquent ORM, Stripe integration, SMTP servers, and SEO optimization, Oz Pickle prioritizes scalability, seamless transactions, and enhanced user experiences.
+- Tech Stack:
+- Laravel (PHP Framework)
+- jQuery (JavaScript Library)
+- SCSS (CSS Preprocessor)
+- SQLite (Database)
+- Blade Templating Engine
+- Stripe (Payment Integration Service)
+- SMTP Server
+- CSV Batch Processing System
+- SEO Tools and Analytics
 - GitHub Repository: [Link to Project Repository]
 
 ## Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jakeb-k&show_icons=true&theme=radical)
-
-## Contact Me
-
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
-
-## Support Me
-
-If you find my projects helpful, you can support me by:
-
-- Giving a ⭐️ to the repositories.
-- Donating via [PayPal](https://www.paypal.com/).
