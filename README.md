@@ -2,7 +2,8 @@
 
 # Hello, I'm Jakeb 👋
 
-[![Linkedin: [jakeb-knowles-software-dev]](https://img.shields.io/badge/jakeb-knowles-software-dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakeb-knowles-software-dev/)](https://www.linkedin.com/in/jakeb-knowles-software-dev/)
+[![Linkedin: jakeb-knowles-software-dev](https://img.shields.io/badge/-jakeb-knowles-software-dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakeb-knowles-software-dev/)](https://www.linkedin.com/in/jakeb-knowles-software-dev/)
+
 [![GitHub [jakeb-k]](https://img.shields.io/github/followers/jakeb-k?label=follow&style=social)](https://github.com/jakeb-k)
 
 ## About Me
@@ -12,9 +13,33 @@ I'm a Software Developer passionate about crafting user-friendly websites and ap
 ## Skills
 
 - Things I like to code with:
-  - <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Angular</title><path d="M16.712 17.711H7.288l-1.204 2.916L12 24l5.916-3.373-1.204-2.916ZM14.692 0l7.832 16.855.814-12.856L14.692 0ZM9.308 0 .662 3.999l.814 12.856L9.308 0Zm-.405 13.93h6.198L12 6.396 8.903 13.93Z"/></svg>
-  - [Language 2]
-  - [Language 3]
+  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+  ![Angular](https://img.shields.io/badge/Angular-red)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+  ![React](https://img.shields.io/badge/React-blueviolet)
+  ![jQuery](https://img.shields.io/badge/jQuery-blue)
+  ![Node.js](https://img.shields.io/badge/Node.js-green)
+  ![Express.js](https://img.shields.io/badge/Express.js-lightgrey)
+  ![PHP](https://img.shields.io/badge/PHP-blueviolet)
+  ![Laravel](https://img.shields.io/badge/Laravel-red)
+  ![HTML5](https://img.shields.io/badge/HTML5-orange)
+  ![SCSS](https://img.shields.io/badge/SCSS-pink)
+  ![LESS.js](https://img.shields.io/badge/LESS.js-blue)
+  ![SQL](https://img.shields.io/badge/SQL-lightgrey)
+  ![SQLite](https://img.shields.io/badge/SQLite-blue)
+  ![MySQL](https://img.shields.io/badge/MySQL-blue)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-green)
+  ![NoSQL](https://img.shields.io/badge/NoSQL-yellow)
+  ![GitHub](https://img.shields.io/badge/GitHub-black)
+  ![Linux (SSH)](https://img.shields.io/badge/Linux%20%28SSH%29-yellowgreen)
+  ![Python](https://img.shields.io/badge/Python-blue)
+  ![Django](https://img.shields.io/badge/Django-green)
+  ![Proficient in all CLI’s](https://img.shields.io/badge/Proficient%20in%20all%20CLI's-brightgreen)
+  ![NoSQL (MongoDB)](https://img.shields.io/badge/NoSQL%20%28MongoDB%29-yellow)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-informational)
+  ![SEO Tools](https://img.shields.io/badge/SEO%20Tools-orange)
+  ![ITIL v4 Knowledge](https://img.shields.io/badge/ITIL%20v4%20Knowledge-critical)
+
 - Tools & Technologies:
   - [Tool/Technology 1]
   - [Tool/Technology 2]
