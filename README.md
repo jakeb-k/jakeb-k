@@ -2,7 +2,7 @@
 
 # Hello, I'm Jakeb 👋
 
-[![Linkedin: [jakeb-knowles-software-dev]](https://img.shields.io/badge/-jakeb-knowles-software-dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakeb-knowles-software-dev/)](https://www.linkedin.com/in/jakeb-knowles-software-dev/)
+[![Linkedin: [jakeb-knowles-software-dev]](https://img.shields.io/badge/jakeb-knowles-software-dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jakeb-knowles-software-dev/)](https://www.linkedin.com/in/jakeb-knowles-software-dev/)
 [![GitHub [jakeb-k]](https://img.shields.io/github/followers/jakeb-k?label=follow&style=social)](https://github.com/jakeb-k)
 
 ## About Me
@@ -11,8 +11,8 @@ I'm a Software Developer passionate about crafting user-friendly websites and ap
 
 ## Skills
 
-- Programming Languages:
-  - [Language 1]
+- Things I like to code with:
+  - <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Angular</title><path d="M16.712 17.711H7.288l-1.204 2.916L12 24l5.916-3.373-1.204-2.916ZM14.692 0l7.832 16.855.814-12.856L14.692 0ZM9.308 0 .662 3.999l.814 12.856L9.308 0Zm-.405 13.93h6.198L12 6.396 8.903 13.93Z"/></svg>
   - [Language 2]
   - [Language 3]
 - Tools & Technologies:
