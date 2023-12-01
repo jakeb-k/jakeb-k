@@ -14,7 +14,7 @@ I'm a Software Developer passionate about crafting user-friendly websites and ap
 
 ## Skills
 
-### Things I like to code with:
+### Things I like to build with:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Angular](https://img.shields.io/badge/Angular-red)
@@ -32,18 +32,13 @@ I'm a Software Developer passionate about crafting user-friendly websites and ap
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
-![Linux (SSH)](https://img.shields.io/badge/Linux%20%28SSH%29-yellowgreen)
+![Linux](https://img.shields.io/badge/Linux%20%28SSH%29-yellowgreen)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Django](https://img.shields.io/badge/Django-green)
 ![CLI's](https://img.shields.io/badge/Proficient%20in%20all%20CLI's-brightgreen)
 ![Photoshop](https://img.shields.io/badge/Photoshop-informational)
 ![Google Analytics](https://img.shields.io/badge/SEO%20Tools-orange)
-
-###
-
-- [Tool/Technology 1]
-- [Tool/Technology 2]
-- [Tool/Technology 3]
+![Hostinger](https://img.shields.io/badge/Hostinger-Expert-lightgrey?style=flat-square)
 
 ## Projects
 
