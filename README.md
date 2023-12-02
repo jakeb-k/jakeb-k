@@ -10,15 +10,14 @@
 
 ## About Me
 
-<div style="display: flex; flex-direction:row;">
+<div style="display: flex; flex-direction:row !important; justify-content:space-around;">
     <div>
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your GIF" width="400" />
-    </div>
-
-<div>
         <p>
         Hey there, I'm a coding aficionado on a mission to sprinkle digital magic ✨! I cook up websites and apps that make users go "Wow!" while sipping on a cup of code. When I'm not crafting pixel-perfect interfaces, you'll find me shooting hoops, at the beach, or attempting to enjoy this wild ride called life. Let's make the internet a cooler place, one line of code at a time!
         </p>
+    </div>
+    <div>
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your GIF" width="400" />
     </div>
 </div>
 
