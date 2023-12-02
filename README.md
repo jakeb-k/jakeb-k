@@ -16,6 +16,8 @@ I'm a Software Developer passionate about crafting user-friendly websites and ap
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
+![npm](https://img.shields.io/badge/npm-red?logo=npm&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-blue?logo=ionic&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-blueviolet?logo=react&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
@@ -23,6 +25,8 @@ I'm a Software Developer passionate about crafting user-friendly websites and ap
 ![Express.js](https://img.shields.io/badge/Express.js-lightgrey?logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-blueviolet?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-lightgrey?logo=inertia.js&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-purple?logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-pink?logo=sass&logoColor=white)
 ![LESS.js](https://img.shields.io/badge/LESS.js-blue?logo=less&logoColor=white)
@@ -33,10 +37,12 @@ I'm a Software Developer passionate about crafting user-friendly websites and ap
 ![Linux](https://img.shields.io/badge/Linux-yellowgreen?logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-green?logo=django&logoColor=white)
-![CLI's](https://img.shields.io/badge/CLI's-brightgreen?logo=command-line&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-informational?logo=adobe-photoshop&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-orange?logo=google-analytics&logoColor=white)
+![AdMob](https://img.shields.io/badge/AdMob-green?logo=google-admob&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-lightgrey?style=flat-square&logo=hostinger&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-green?logo=android-studio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-blue?logo=stripe&logoColor=white)
 
 ## Projects
 
@@ -46,16 +52,17 @@ I'm a Software Developer passionate about crafting user-friendly websites and ap
 
 ### Tech Stack:
 
-- Laravel (PHP Framework)
-- jQuery (JavaScript Library)
-- SCSS (CSS Preprocessor)
-- SQLite (Database)
-- Blade Templating Engine
-- Stripe (Payment Integration Service)
-- SMTP Server (Mailtrap)
-- CSV Batch Processing System (Python)
-- SEO Tools and Analytics
-- GitHub Repository: [Link to Project Repository]
+![PHP](https://img.shields.io/badge/PHP-blueviolet?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-purple?logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-pink?logo=sass&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-yellowgreen?logo=linux&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-blue?logo=stripe&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-lightgrey?style=flat-square&logo=hostinger&logoColor=white)
 
 ## Stats
 
