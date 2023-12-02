@@ -6,7 +6,7 @@
 
 [![GitHub [jakeb-k]](https://img.shields.io/github/followers/jakeb-k?label=follow&style=social)](https://github.com/jakeb-k)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/YourLinkedInProfile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jakeb-knowles-software-dev/)
 
 ## About Me
 
@@ -14,7 +14,7 @@
 <p>
         Hey there, I'm a coding aficionado on a mission to sprinkle digital magic ✨! I cook up websites and apps that make users go "Wow!" while sipping on a cup of code. When I'm not crafting pixel-perfect interfaces, you'll find me shooting hoops, at the beach, or attempting to enjoy this wild ride called life. Let's make the internet a cooler place, one line of code at a time!
         </p>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your GIF" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your GIF" width=50%;/>
   
 </div>
 
