@@ -32,12 +32,12 @@ I'm a Software Developer passionate about crafting user-friendly websites and ap
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
-![Linux](https://img.shields.io/badge/Linux%20%28SSH%29-yellowgreen)
+![Linux](https://img.shields.io/badge/Linux-yellowgreen)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Django](https://img.shields.io/badge/Django-green)
-![CLI's](https://img.shields.io/badge/Proficient%20in%20all%20CLI's-brightgreen)
+![CLI's](https://img.shields.io/badge/CLI's-brightgreen)
 ![Photoshop](https://img.shields.io/badge/Photoshop-informational)
-![Google Analytics](https://img.shields.io/badge/SEO%20Tools-orange)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-orange)
 ![Hostinger](https://img.shields.io/badge/Hostinger-Expert-lightgrey?style=flat-square)
 
 ## Projects
@@ -45,15 +45,17 @@ I'm a Software Developer passionate about crafting user-friendly websites and ap
 ### Oz Pickle
 
 - Description: Oz Pickle, a Laravel-powered E-commerce Platform, offers a sophisticated and responsive online marketplace. Leveraging Laravel's robust framework, it seamlessly integrates innovative functionalities, ensuring a secure shopping experience for customers while streamlining administration. Employing jQuery and SCSS, interactive elements enhance user engagement. Admin functionalities enable CRUD operations, product management, discounts, and efficient order handling. Users benefit from personalized accounts, favoriting products, and submitting reviews, fostering engagement. With a large SQLite database and Eloquent ORM, Stripe integration, SMTP servers, and SEO optimization, Oz Pickle prioritizes scalability, seamless transactions, and enhanced user experiences.
-- Tech Stack:
+
+### Tech Stack:
+
 - Laravel (PHP Framework)
 - jQuery (JavaScript Library)
 - SCSS (CSS Preprocessor)
 - SQLite (Database)
 - Blade Templating Engine
 - Stripe (Payment Integration Service)
-- SMTP Server
-- CSV Batch Processing System
+- SMTP Server (Mailtrap)
+- CSV Batch Processing System (Python)
 - SEO Tools and Analytics
 - GitHub Repository: [Link to Project Repository]
 
