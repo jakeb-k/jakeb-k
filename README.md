@@ -20,7 +20,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-blueviolet?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
-[![Inertia.js](https://img.shields.io/badge/-Inertia.js-7957d5?logo=inertia&logoColor=white)]
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-7957d5?logo=inertia&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-purple?logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
