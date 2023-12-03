@@ -2,7 +2,7 @@
 
 # Hey, I'm Jakeb 👋
 
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-jakebknowles.com-green?style=flat-square)](https://jakebknowles.com)
+[![jakebknowles.com](https://img.shields.io/badge/jakebknowles.com-4287f5?style=flat-square)](https://jakebknowles.com)
 [![GitHub [jakeb-k]](https://img.shields.io/github/followers/jakeb-k?label=follow&style=social)](https://github.com/jakeb-k)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jakeb-knowles-software-dev/)
 
