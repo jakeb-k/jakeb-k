@@ -1,11 +1,9 @@
 ![Profile Banner](https://media.licdn.com/dms/image/D5616AQEvhyCMMuoF3g/profile-displaybackgroundimage-shrink_350_1400/0/1696035424976?e=1706745600&v=beta&t=WhCpEU_qLjKledx9Jxfg_wb3LYiLY93MoNlbR-IdVsU)
 
-# Hello, I'm Jakeb 👋
+# Hey, I'm Jakeb 👋
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-jakebknowles.com-green?style=flat-square)](https://jakebknowles.com)
-
 [![GitHub [jakeb-k]](https://img.shields.io/github/followers/jakeb-k?label=follow&style=social)](https://github.com/jakeb-k)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jakeb-knowles-software-dev/)
 
 ## About Me
@@ -22,7 +20,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-blueviolet?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-lightgrey?logo=inertia.js&logoColor=white)
+[![Inertia.js](https://img.shields.io/badge/-Inertia.js-7957d5?logo=inertia&logoColor=white)]
 ![Blade](https://img.shields.io/badge/Blade-purple?logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
