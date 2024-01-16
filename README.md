@@ -49,11 +49,30 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-green?logo=android-studio&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-blue?logo=stripe&logoColor=white)
 
-## Projects
+## Current Projects
 
-### Oz Pickle
+### Nomster
 
-Description: Oz Pickle, a Laravel-powered E-commerce Platform, offers a sophisticated and responsive online marketplace. Leveraging Laravel's robust framework, it seamlessly integrates innovative functionalities, ensuring a secure shopping experience for customers while streamlining administration. Employing jQuery and SCSS, interactive elements enhance user engagement. Admin functionalities enable CRUD operations, product management, discounts, and efficient order handling. Users benefit from personalized accounts, favoriting products, and submitting reviews, fostering engagement. With a large SQLite database and Eloquent ORM, Stripe integration, SMTP servers, and SEO optimization, Oz Pickle prioritizes scalability, seamless transactions, and enhanced user experiences.
+Nomster is a new personal project I have created. It utilises the Spoonacular API's to provide an indepth recipe search using macro nutrients, cuisine, ingredients to name a few. It will have a user account feature to enable users to track their progress in calories and macro nutrients, save their favourite recipes and to add ingredients from their favourite recipes to a shopping list. This is my biggest project by far! And I will be working on this over the summer (I live in Australia) with a good friend and am very excited about the potential this app has!
+
+### Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
+![npm](https://img.shields.io/badge/npm-red?logo=npm&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-blue?logo=ionic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-pink?logo=sass&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-green?logo=android-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
+
+[View Repo](https://github.com/jakeb-k/nomster)
+
+
+### Aussie PicklePro
+
+Description: Aussie PicklePro, a Laravel-powered E-commerce Platform, offers a sophisticated and responsive online marketplace. Leveraging Laravel's robust framework, it seamlessly integrates innovative functionalities, ensuring a secure shopping experience for customers while streamlining administration. Employing jQuery and SCSS, interactive elements enhance user engagement. Admin functionalities enable CRUD operations, product management, discounts, and efficient order handling. Users benefit from personalized accounts, favoriting products, and submitting reviews, fostering engagement. With a large SQLite database and Eloquent ORM, Stripe integration, SMTP servers, and SEO optimization, Aussie PicklePro prioritizes scalability, seamless transactions, and enhanced user experiences. AVAILABLE NOW at [Aussie Pickle Pro](https://aussiepicklepro.com.au)!
 
 ### Tech Stack:
 
