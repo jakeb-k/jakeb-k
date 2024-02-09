@@ -1,5 +1,3 @@
-![Profile Banner](https://media.licdn.com/dms/image/D5616AQEvhyCMMuoF3g/profile-displaybackgroundimage-shrink_350_1400/0/1696035424976?e=1706745600&v=beta&t=WhCpEU_qLjKledx9Jxfg_wb3LYiLY93MoNlbR-IdVsU)
-
 # Hey, I'm Jakeb 👋
 
 [![jakebknowles.com](https://img.shields.io/badge/jakebknowles.com-4287f5?style=flat-square)](https://jakebknowles.com)
