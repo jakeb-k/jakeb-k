@@ -19,14 +19,16 @@
 ![PHP](https://img.shields.io/badge/PHP-blueviolet?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/-Inertia.js-7957d5?logo=inertia&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-blueviolet?logo=react&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-purple?logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-red?logo=npm&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-blue?logo=ionic&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-blueviolet?logo=react&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-lightgrey?logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
@@ -49,6 +51,29 @@
 
 ## Current Projects
 
+### LOPA
+
+LOPA (Life Optimisation Personal Assistant) is an integrated web application that revolutionizes personal management by equally focusing on finance, personal productivity, and wellness. Built on Laravel Inertia and Vue.js, it features intuitive budgeting, dynamic to-do lists, and tailored news aggregation, seamlessly blending these aspects with comprehensive lifestyle tracking. LOPA's AI-driven engine personalizes the experience, providing actionable insights across all life domains. This holistic approach ensures that financial planning, daily tasks, and health routines are interconnected, offering users a balanced and enriched life management solution. With LOPA, individuals gain a powerful tool to optimise their day-to-day activities, financial health, and overall wellbeing, all through a single, user-friendly platform.
+
+### Tech Stack:
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-2C3E50?logo=inertiajs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
+
+[View Repo](https://github.com/jakeb-k/lopa)
+
 ### Nomster
 
 Nomster is a new personal project I have created. It utilises the Spoonacular API's to provide an indepth recipe search using macro nutrients, cuisine, ingredients to name a few. It will have a user account feature to enable users to track their progress in calories and macro nutrients, save their favourite recipes and to add ingredients from their favourite recipes to a shopping list. This is my biggest project by far! And I will be working on this over the summer (I live in Australia) with a good friend and am very excited about the potential this app has!
@@ -66,27 +91,6 @@ Nomster is a new personal project I have created. It utilises the Spoonacular AP
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
 
 [View Repo](https://github.com/jakeb-k/nomster)
-
-
-### Aussie PicklePro
-
-Description: Aussie PicklePro, a Laravel-powered E-commerce Platform, offers a sophisticated and responsive online marketplace. Leveraging Laravel's robust framework, it seamlessly integrates innovative functionalities, ensuring a secure shopping experience for customers while streamlining administration. Employing jQuery and SCSS, interactive elements enhance user engagement. Admin functionalities enable CRUD operations, product management, discounts, and efficient order handling. Users benefit from personalized accounts, favoriting products, and submitting reviews, fostering engagement. With a large SQLite database and Eloquent ORM, Stripe integration, SMTP servers, and SEO optimization, Aussie PicklePro prioritizes scalability, seamless transactions, and enhanced user experiences. AVAILABLE NOW at [Aussie Pickle Pro](https://aussiepicklepro.com.au)!
-
-### Tech Stack:
-
-![PHP](https://img.shields.io/badge/PHP-blueviolet?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-purple?logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-pink?logo=sass&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-yellowgreen?logo=linux&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-blue?logo=stripe&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-lightgrey?style=flat-square&logo=hostinger&logoColor=white)
-
-[View Repo](https://github.com/jakeb-k/pickle-store)
 
 ## Stats
 
