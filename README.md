@@ -21,6 +21,7 @@
 ![Inertia.js](https://img.shields.io/badge/-Inertia.js-7957d5?logo=inertia&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-blueviolet?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-purple?logo=laravel&logoColor=white)
