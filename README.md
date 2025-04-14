@@ -21,6 +21,7 @@
 ![Inertia.js](https://img.shields.io/badge/-Inertia.js-7957d5?logo=inertia&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-blueviolet?logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
@@ -53,6 +54,36 @@
 
 ## Current Projects
 
+### Picklewear
+Due to a trademark legal dispute I have been forced to rebrand and redo my [AussiePicklePro](https://github.com/jakeb-k/pickle-store) site, which was a great opportunity to apply the things I've learnt into a new and much more engaging experience.
+
+A full-stack e-commerce platform built with Laravel, Inertia, React and MySQL. Hosted on DigitalOcean via Laravel Forge, this project features a complete CI/CD pipeline using GitHub Actions, auto-deploying zero-downtime updates to staging on every merge.
+
+This platform includes real-time admin controls for inventory and orders, automated Alibaba product sync, user-friendly features like favourites, reviews and newsletters, Stripe integration for multi-method payments, custom email domain integration with Zoho and SEO optimisations for max visibility. Engineered with performance, security, and scalability in mind.
+
+I have recently release a staging version of the site available [here](https://staging.picklewear.com.au)
+
+### Tech Stack  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-blueviolet?logo=react&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-7957d5?logo=inertia&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=githubactions&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?logo=digitalocean&logoColor=white)
+![Zoho Mail](https://img.shields.io/badge/Zoho%20Mail-red?logo=zoho&logoColor=white)
+
+[View Repo](https://github.com/jakeb-k/picklewear)
+
 ### LOPA
 
 LOPA (Life Optimisation Personal Assistant) is an integrated web application that revolutionizes personal management by equally focusing on finance, personal productivity, and wellness. Built on Laravel Inertia and Vue.js, it features intuitive budgeting, dynamic to-do lists, and tailored news aggregation, seamlessly blending these aspects with comprehensive lifestyle tracking. LOPA's AI-driven engine personalizes the experience, providing actionable insights across all life domains. This holistic approach ensures that financial planning, daily tasks, and health routines are interconnected, offering users a balanced and enriched life management solution. With LOPA, individuals gain a powerful tool to optimise their day-to-day activities, financial health, and overall wellbeing, all through a single, user-friendly platform.
@@ -70,30 +101,13 @@ LOPA (Life Optimisation Personal Assistant) is an integrated web application tha
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?logo=digitalocean&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
 
 [View Repo](https://github.com/jakeb-k/lopa)
 
-### Nomster
 
-Nomster is a new personal project I have created. It utilises the Spoonacular API's to provide an indepth recipe search using macro nutrients, cuisine, ingredients to name a few. It will have a user account feature to enable users to track their progress in calories and macro nutrients, save their favourite recipes and to add ingredients from their favourite recipes to a shopping list. This is my biggest project by far! And I will be working on this over the summer (I live in Australia) with a good friend and am very excited about the potential this app has!
-
-### Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
-![npm](https://img.shields.io/badge/npm-red?logo=npm&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-blue?logo=ionic&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-pink?logo=sass&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-green?logo=android-studio&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-
-[View Repo](https://github.com/jakeb-k/nomster)
 
 ## Stats
 
