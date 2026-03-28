@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Jakeb Knowles banner</title>
+  <desc id="desc">Dark futuristic banner with a glowing network mesh and the text Jakeb Knowles, Builder At Scale.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#030a0a" />
+      <stop offset="0.45" stop-color="#061212" />
+      <stop offset="1" stop-color="#010405" />
+    </linearGradient>
+    <radialGradient id="glow-left" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 240) rotate(12) scale(500 220)">
+      <stop offset="0" stop-color="#23f0c7" stop-opacity="0.34" />
+      <stop offset="1" stop-color="#23f0c7" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glow-right" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 110) rotate(-8) scale(360 180)">
+      <stop offset="0" stop-color="#0cae92" stop-opacity="0.18" />
+      <stop offset="1" stop-color="#0cae92" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#33ffd6" stop-opacity="0.04" />
+      <stop offset="0.3" stop-color="#33ffd6" stop-opacity="0.65" />
+      <stop offset="0.75" stop-color="#33ffd6" stop-opacity="0.18" />
+      <stop offset="1" stop-color="#33ffd6" stop-opacity="0.02" />
+    </linearGradient>
+    <linearGradient id="mesh" x1="40" y1="260" x2="900" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6fff1" stop-opacity="0.9" />
+      <stop offset="0.45" stop-color="#33ffd6" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#33ffd6" stop-opacity="0.05" />
+    </linearGradient>
+    <filter id="blur-lg" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="28" />
+    </filter>
+    <filter id="blur-sm" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.6" />
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)" />
+  <rect width="1280" height="320" fill="url(#glow-left)" />
+  <rect width="1280" height="320" fill="url(#glow-right)" />
+
+  <g opacity="0.22">
+    <path d="M-40 98C72 112 120 88 225 104C332 120 373 151 468 145C597 137 667 68 817 92C930 110 1015 169 1134 155C1207 147 1260 116 1320 94" stroke="url(#wave)" stroke-width="3" />
+    <path d="M-20 151C73 137 123 165 223 181C341 201 418 195 523 174C651 147 721 116 867 130C997 142 1116 201 1320 188" stroke="url(#wave)" stroke-width="3" />
+    <path d="M-10 215C95 186 177 219 290 236C391 251 494 237 602 210C701 185 782 173 908 184C1036 196 1148 255 1320 240" stroke="url(#wave)" stroke-width="3" />
+  </g>
+
+  <g filter="url(#blur-lg)" opacity="0.34">
+    <path d="M-40 250C59 220 154 249 252 268C359 289 454 281 560 251C653 224 735 205 846 216C967 227 1080 288 1320 252" stroke="#23f0c7" stroke-width="18" />
+    <path d="M-50 195C52 165 164 195 260 185C373 173 476 117 618 133C722 145 815 198 952 194C1071 190 1179 129 1320 116" stroke="#15d8b3" stroke-width="12" />
+  </g>
+
+  <g stroke="url(#mesh)" stroke-width="1.8" fill="none" opacity="0.86">
+    <path d="M-10 255L58 224L124 244L188 211L258 232L324 198L396 223L468 176L532 205L620 154L705 186L804 150L908 168" />
+    <path d="M-20 194L74 171L142 193L213 160L286 177L356 153L441 165L522 127L613 138L702 107L815 118L934 90" />
+    <path d="M18 286L96 255L176 271L253 242L339 257L420 227L513 242L618 195L728 218L846 188L968 204" />
+    <path d="M58 224L74 171L142 193L124 244L188 211L213 160L286 177L258 232L324 198L356 153L441 165L396 223L468 176L522 127L613 138L532 205L620 154L702 107L815 118L705 186L804 150L934 90L908 168" />
+    <path d="M96 255L124 244L176 271L188 211L253 242L258 232L339 257L324 198L420 227L396 223L513 242L468 176L618 195L532 205L728 218L620 154L846 188L705 186L968 204L804 150" />
+    <path d="M18 286L58 224L96 255M176 271L213 160M339 257L356 153M513 242L522 127M728 218L702 107M968 204L934 90" />
+  </g>
+
+  <g fill="#d6fff7" opacity="0.95">
+    <circle cx="58" cy="224" r="3.2" />
+    <circle cx="74" cy="171" r="2.5" />
+    <circle cx="124" cy="244" r="3.2" />
+    <circle cx="142" cy="193" r="2.6" />
+    <circle cx="188" cy="211" r="3.1" />
+    <circle cx="213" cy="160" r="2.7" />
+    <circle cx="258" cy="232" r="3.2" />
+    <circle cx="286" cy="177" r="2.8" />
+    <circle cx="324" cy="198" r="3.2" />
+    <circle cx="356" cy="153" r="2.8" />
+    <circle cx="396" cy="223" r="3.1" />
+    <circle cx="441" cy="165" r="2.7" />
+    <circle cx="468" cy="176" r="3.4" />
+    <circle cx="522" cy="127" r="2.8" />
+    <circle cx="532" cy="205" r="3.1" />
+    <circle cx="620" cy="154" r="3.4" />
+    <circle cx="702" cy="107" r="3.1" />
+    <circle cx="705" cy="186" r="3.2" />
+    <circle cx="804" cy="150" r="3.5" />
+    <circle cx="908" cy="168" r="3.6" />
+    <circle cx="934" cy="90" r="3.1" />
+  </g>
+
+  <g filter="url(#blur-sm)" opacity="0.95">
+    <circle cx="188" cy="211" r="10" fill="#23f0c7" fill-opacity="0.18" />
+    <circle cx="468" cy="176" r="12" fill="#23f0c7" fill-opacity="0.18" />
+    <circle cx="804" cy="150" r="14" fill="#23f0c7" fill-opacity="0.16" />
+    <circle cx="934" cy="90" r="12" fill="#23f0c7" fill-opacity="0.14" />
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="end">
+    <text x="1160" y="130" fill="#ffffff" font-size="64" font-weight="800" letter-spacing="2">JAKEB KNOWLES</text>
+    <line x1="866" y1="150" x2="1160" y2="150" stroke="#ffffff" stroke-opacity="0.78" stroke-width="2.5" />
+    <text x="1160" y="204" fill="#e5fffb" font-size="31" font-style="italic" font-weight="700" letter-spacing="1.2">BUILDER AT SCALE</text>
+  </g>
+</svg>

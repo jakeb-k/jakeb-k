@@ -1,114 +1,74 @@
-# Hey, I'm Jakeb 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="Jakeb Knowles banner" width="100%" />
+</p>
 
-[![jakebknowles.com](https://img.shields.io/badge/jakebknowles.com-4287f5?style=flat-square)](https://jakebknowles.com)
-[![GitHub [jakeb-k]](https://img.shields.io/github/followers/jakeb-k?label=follow&style=social)](https://github.com/jakeb-k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jakeb-knowles-software-dev/)
+<h1 align="center">Jakeb Knowles</h1>
 
-## About Me
+<p align="center">
+  <strong>Code Wrangler @ Simpro | Product-Focused Software Engineer</strong>
+</p>
 
-<div style="display: flex; flex-direction:row important; justify-content:space-around;">
-<p>
-        Hey there, I'm a coding aficionado on a mission to sprinkle digital magic ✨! I cook up websites and apps that make users go "Wow!" while sipping on a cup of code. When I'm not crafting pixel-perfect interfaces, you'll find me shooting hoops, at the beach, or attempting to enjoy this wild ride called life. Let's make the internet a cooler place, one line of code at a time!
-        </p>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your GIF" width=50%;/>
-  
-</div>
+<p align="center">
+  I build and ship products end-to-end, from vague ideas to production reality.
+  <br />
+  Modernising awkward systems, solving ambiguous problems, and building things people actually use.
+</p>
 
-## Things I like to build with:
+<p align="center">
+  <a href="https://jakebknowles.com">Website</a>
+  ·
+  <a href="https://www.linkedin.com/in/jakeb-knowles-software-dev/">LinkedIn</a>
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-blueviolet?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/-Inertia.js-7957d5?logo=inertia&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-blueviolet?logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-purple?logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
-![npm](https://img.shields.io/badge/npm-red?logo=npm&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-blue?logo=ionic&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-lightgrey?logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-pink?logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![LESS.js](https://img.shields.io/badge/LESS.js-blue?logo=less&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-yellowgreen?logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-green?logo=django&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-informational?logo=adobe-photoshop&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-orange?logo=google-analytics&logoColor=white)
-![AdMob](https://img.shields.io/badge/AdMob-green?logo=google-admob&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-lightgrey?style=flat-square&logo=hostinger&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-green?logo=android-studio&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-blue?logo=stripe&logoColor=white)
+## Builder At Scale
 
-## Current Projects
+I like the full shape of the work: understanding the problem, choosing the right thing to build, wiring up the backend, shaping the frontend, and seeing it survive production. At Simpro, that usually means the weird, ambiguous, high-leverage problems that do not come with a neat little blueprint.
+
+Outside of work, I build my own products for the same reason I like the day job: I enjoy turning rough ideas into something real. It keeps the standards honest. If the brief is fuzzy and the system is slightly cursed, I am usually interested.
+
+## Snapshot
+
+- Code Wrangler @ Simpro, building across product, frontend, backend, integrations, docs, and release work.
+- Moved from Junior Software Developer to Software Engineer in under a year by learning fast and shipping through ambiguity.
+- Product-focused by default. I care about building the right thing as much as building it well.
+- AI helps me move faster and tighten feedback loops, but the thinking was there long before the tooling caught up.
+
+## Currently Building
+
+### Trendsetter
+
+An AI-powered goal-setting app that turns a conversation into a real plan, timeline, and trackable progress system.
+
+Built with Expo and React Native on top of a Laravel API, OpenAI, SQLite, Zustand, and a test-backed workflow. It is the clearest expression of how I like to build: product-first, full-stack, and fast-moving.
+
+[App Repo](https://github.com/jakeb-k/trendsetter) · [API Repo](https://github.com/jakeb-k/trendsetter-core)
+
+## Flagship Build
 
 ### Picklewear
-Due to a trademark legal dispute I have been forced to rebrand and redo my [AussiePicklePro](https://github.com/jakeb-k/pickle-store) site, which was a great opportunity to apply the things I've learnt into a new and much more engaging experience.
 
-A full-stack e-commerce platform built with Laravel, Inertia, React and MySQL. Hosted on DigitalOcean via Laravel Forge, this project features a complete CI/CD pipeline using GitHub Actions, auto-deploying zero-downtime updates to staging on every merge.
+Full-stack e-commerce rebuild born from a forced rebrand, with a better product and a stronger technical foundation on the other side.
 
-This platform includes real-time admin controls for inventory and orders, automated Alibaba product sync, user-friendly features like favourites, reviews and newsletters, Stripe integration for multi-method payments, custom email domain integration with Zoho and SEO optimisations for max visibility. Engineered with performance, security, and scalability in mind.
+Laravel, Inertia, React, MySQL, Stripe, automated Alibaba product sync, and zero-downtime staging deploys through GitHub Actions and Forge. Equal parts storefront, ops tooling, and hard-won product lessons.
 
-I have recently release a staging version of the site available [here](https://staging.picklewear.com.au)
+[Repo](https://github.com/jakeb-k/picklewear) · [View](https://picklewear.com.au)
 
-### Tech Stack  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-blueviolet?logo=react&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/-Inertia.js-7957d5?logo=inertia&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=githubactions&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?logo=digitalocean&logoColor=white)
-![Zoho Mail](https://img.shields.io/badge/Zoho%20Mail-red?logo=zoho&logoColor=white)
+## Work That Does Not Live In Public Repos
 
-[View Repo](https://github.com/jakeb-k/picklewear)
+A lot of the work I am proud of sits behind company walls, so the public version is this: I have built a reputation for taking on the strange projects. The legacy refactors. The tooling rebuilds. The "this does not quite fit anywhere" systems work where architecture choices matter more than brute force.
 
-### LOPA
+That has meant modernising brittle platforms, improving developer tooling and documentation, and leading work where the hard part is not writing code, it is making the right call early enough that the whole thing does not drift into nonsense.
 
-LOPA (Life Optimisation Personal Assistant) is an integrated web application that revolutionizes personal management by equally focusing on finance, personal productivity, and wellness. Built on Laravel Inertia and Vue.js, it features intuitive budgeting, dynamic to-do lists, and tailored news aggregation, seamlessly blending these aspects with comprehensive lifestyle tracking. LOPA's AI-driven engine personalizes the experience, providing actionable insights across all life domains. This holistic approach ensures that financial planning, daily tasks, and health routines are interconnected, offering users a balanced and enriched life management solution. With LOPA, individuals gain a powerful tool to optimise their day-to-day activities, financial health, and overall wellbeing, all through a single, user-friendly platform.
+## How I Work
 
-### Tech Stack:
+- Start with the real problem. Good software dies quickly when it solves the wrong thing beautifully.
+- Own the stack. I am comfortable moving from product conversations to APIs, UI, release work, and the occasional production gremlin hunt.
+- Modernise carefully. I enjoy taking old, awkward systems and dragging them into the present without torching the business.
+- Use AI as leverage, not identity. I build structured workflows and validation loops to move faster, but engineering judgment still does the driving.
+- Keep it human. I like sharp systems, but I also like working with people. Software gets better when the room does.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/-Inertia.js-7957d5?logo=inertia&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?logo=digitalocean&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+## Toolkit, Not Personality
 
-
-[View Repo](https://github.com/jakeb-k/lopa)
-
-
-
-## Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jakeb-k&show_icons=true&theme=radical)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,laravel,php,py,nodejs,expo,tailwind,sqlite,postgres,githubactions,linux&theme=dark" alt="Core tools and technologies" />
+</p>
